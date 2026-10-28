@@ -26,8 +26,3 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), com experiência em s
 - **Calculadora de Infusões Veterinárias**: ferramenta para auxiliar no cálculo de infusões.
 - **Sistema de Pedidos para Pizzaria**: registro e acompanhamento de pedidos.
 - **Caderno Digital**: aplicação web de anotações feita com Laravel e PHP.
-
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lettiki&show_icons=true&theme=tokyonight&hide_border=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lettiki&layout=compact&theme=tokyonight&hide_border=true)
