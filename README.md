@@ -6,7 +6,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), com experiência em s
 
 🌐 **Portfólio:** https://Lettiki.github.io
 💼 **LinkedIn:** https://www.linkedin.com/in/leticia-dutra014
-✉️ **E-mail:** leticia.lavandoski@hotmail.com
 
 ## 🛠️ Tecnologias
 
